@@ -3,7 +3,7 @@
 This is a solution to the [Social media dashboard with theme switcher](https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H). 
 
 ## 📸 Screenshot
-![Design preview for the Browser extension manager UI](./src/assets/design/design-dark.jpg)
+![Design preview for the Browser extension manager UI](./src/assets/design/desktop-design-dark.jpg)
 
 ## 🌐 Links
 
