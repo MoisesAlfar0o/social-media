@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-lime-green: hsl(163, 72%, 41%);
+  --color-bright-red: hsl(356, 69%, 56%);
+  /* Border */
+  --color-facebook: hsl(208, 92%, 53%);
+  --color-twitter: hsl(208, 92%, 53%);
+  --color-instagram-start: hsl(37, 97%, 70%);
+  --color-instagram-end: hsl(329, 70%, 58%);
+  --color-youtube: hsl(348, 97%, 39%);
+  /* Dark mode */
+  --color-dark-blue: hsl(230, 17%, 14%);
+  --color-very-dark-bg-blue: hsl(232, 19%, 15%);
+  --color-dark-desaturated: hsl(228, 28%, 20%);
+  --color-dark-desaturated-blue: hsl(228, 34%, 66%);
+  --color-dark-white: hsl(0, 0%, 100%);
+  --color-dark-hover: hsl(229, 25%, 27%);
+  /* Toggle dark */
+  --color-toggle-dark-start: hsl(210, 78%, 56%); 
+  --color-toggle-dark-end: hsl(146, 68%, 55%);
+  /* Light mode */
+  --color-light-pale: hsl(230, 17%, 14%);
+  --color-light-bg-blue: hsl(225, 100%, 98%);
+  --color-light-blue: hsl(227, 47%, 96%);
+  --color-light-grayish-blue: hsl(228, 12%, 44%);
+  --color-light-desaturated-blue: hsl(228, 34%, 66%);
+  --color-light-dark-blue: hsl(230, 17%, 14%);
+  --color-light-white: hsl(0, 0%, 100%);
+  --color-light-hover: hsl(231, 37%, 91%);
+  /* Toggle light */
+  --color-toggle-light: hsl(230, 22%, 74%); 
+  /* Font */
+  --font-inter: 'Inter';
+}
+
+.dark body {
+  @apply bg-dark-blue
+}
+
+.social-card {
+  @apply bg-light-blue dark:bg-dark-desaturated flex flex-col items-center justify-center py-6 gap-5 hover:bg-light-hover dark:hover:bg-dark-hover cursor-pointer transition-colors duration-300
+}
+
+.overview-card {
+  @apply  bg-light-blue dark:bg-dark-desaturated flex flex-col justify-between gap-4 py-4 px-6 rounded hover:bg-light-hover dark:hover:bg-dark-hover cursor-pointer transition-colors duration-300
+}
