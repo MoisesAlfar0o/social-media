@@ -1,4 +1,4 @@
-# 📊 Social Media Dashboard with Theme Switcher
+#📊 Social Media Dashboard with Theme Switcher
 
 This is a solution to the [Social media dashboard with theme switcher](https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H). 
 
@@ -8,9 +8,9 @@ This is a solution to the [Social media dashboard with theme switcher](https://w
 ## 🌐 Links
 
 ### 🚀 Solution
-- Solution URL: [here]([https://www.frontendmentor.io/solutions/social-media-with-theme-switcher-react-MPh2SGxfNr])
+- Solution URL: [here](https://www.frontendmentor.io/solutions/social-media-with-theme-switcher-react-MPh2SGxfNr)
 ### 🔗 Live Demo
-- Live Site URL: [here]([https://social-media-psi-five.vercel.app/])
+- Live Site URL: [here](https://social-media-psi-five.vercel.app/)
 
 
 ## 🛠️ Built With
