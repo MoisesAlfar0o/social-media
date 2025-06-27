@@ -8,9 +8,9 @@ This is a solution to the [Social media dashboard with theme switcher](https://w
 ## 🌐 Links
 
 ### 🚀 Solution
-- Solution URL: [here](https://www.frontendmentor.io/solutions/browser-extension-manager-react-tailwind-ts-ryT9sZjwry)
+- Solution URL: [here]([https://www.frontendmentor.io/solutions/social-media-with-theme-switcher-react-MPh2SGxfNr]
 ### 🔗 Live Demo
-- Live Site URL: [here](https://browser-manager-1eqo.vercel.app/)
+- Live Site URL: [here]([https://social-media-psi-five.vercel.app/]
 
 
 ## 🛠️ Built With
